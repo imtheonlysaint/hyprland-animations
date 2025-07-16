@@ -1,2 +1,2 @@
 # hyprland-animations dotfiles
-macOS animation style for hyprland
+my perosnal config for hyprland inspired by "macOS"
